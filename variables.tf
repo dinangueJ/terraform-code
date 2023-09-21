@@ -7,10 +7,10 @@ variable "profile" {
   default = "default"
 }
 variable "topic_name" {
-  default = "sns-dev"
+  default = "sns-qa"
 }
 variable "Team" {
-  default = "dev"
+  default = "qa"
 }
 variable "protocol_type" {
   default = "email"
